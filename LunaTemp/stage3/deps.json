@@ -1,0 +1,64 @@
+{
+  "ignores": [
+    "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs",
+    "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs",
+    "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs"
+  ],
+  "groups": [
+    [
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/_Project/Scripts/DraggableHex.cs",
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/_Project/Scripts/GameManager.cs",
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/_Project/Scripts/HexManager.cs",
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/_Project/Scripts/HexDropTarget.cs",
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/_Project/Scripts/Hex.cs",
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/_Project/Scripts/HexTile.cs",
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/_Project/Scripts/TutorialManager.cs",
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/_Project/Scripts/Packshot.cs"
+    ],
+    [
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/_Project/Scripts/Utils/HexGridGenerator.cs"
+    ],
+    [
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/_Project/Scripts/Utils/HexTileGenerator.cs"
+    ],
+    [
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/_Project/Scripts/Utils/HexValidator.cs"
+    ],
+    [
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs"
+    ],
+    [
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs"
+    ],
+    [
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs"
+    ],
+    [
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs"
+    ],
+    [
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs"
+    ],
+    [
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs"
+    ],
+    [
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUIToolkit.cs"
+    ],
+    [
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs"
+    ],
+    [
+      "K:/Unity Projects/test_3d/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs"
+    ],
+    [
+      "K:/UnityLunaPlayworks/pipeline/templates/LunaCompiler/Scripts/Properties/AssemblyInfo.cs"
+    ],
+    [
+      "K:/UnityLunaPlayworks/pipeline/templates/LunaCompiler/Scripts/Sources/OtherDummyScript.cs"
+    ],
+    [
+      "K:/UnityLunaPlayworks/pipeline/templates/LunaCompiler/Scripts/obj/Debug/.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+    ]
+  ]
+}

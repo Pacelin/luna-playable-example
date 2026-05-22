@@ -1,0 +1,136 @@
+{
+    "BuildID": "4616ae10-e514-4b6e-adde-1be62d27a76e",
+    "Command": "project:upload",
+    "ProjectID": "57c3a09d98af8254ea5d1468471e8fb5",
+    "ProjectStateHash": "618a06ac5a699274046a4cf5f657f3adbfce7e537cdff7ab3a2d61d493708cf9",
+    "StageCompletedAt": 3,
+    "EarliestFatalError": 0,
+    "StartTime": 1779468836515,
+    "EndTime": 1779468860308,
+    "PlaygroundUserID": 36381,
+    "OperatingSystem": "win32",
+    "UnityPackageID": null,
+    "TargetPlatform": "playground",
+    "UnityVersion": "2022.3.62f2",
+    "LunaVersion": "7.2.0",
+    "LogCount": 5,
+    "Logs": [
+        {
+            "LogID": "ed5b08c3-7e8d-4b08-a676-f93e2d24fcfc",
+            "Order": 4,
+            "Timestamp": 1779468860512,
+            "Stage": 3,
+            "ErrorType": 3,
+            "ErrorCode": "LP3007",
+            "Description": "You are not using any custom events",
+            "Details": [
+                "You are not using any custom events. It is recommended to use custom events to have a better understanding of the playable."
+            ],
+            "DescriptionValues": [
+                ""
+            ],
+            "DetailsValues": [
+                ""
+            ],
+            "LogCount": 1,
+            "LinePosition": null,
+            "FilePath": "",
+            "ClassName": "",
+            "MemberName": "",
+            "Severity": 0
+        },
+        {
+            "LogID": "a42d484a-6821-4bb9-ab79-e29904136ecc",
+            "Order": 4,
+            "Timestamp": 1779468860513,
+            "Stage": 3,
+            "ErrorType": 3,
+            "ErrorCode": "LP3011",
+            "Description": "You are not using any LunaPlaygroundFields attributes.",
+            "Details": [
+                "You are not using any LunaPlaygroundFields attributes, it allows you to configure your playable to different concepts to find the best variation, which can drastically improve playable performance on all ad networks."
+            ],
+            "DescriptionValues": null,
+            "DetailsValues": null,
+            "LogCount": 1,
+            "LinePosition": null,
+            "FilePath": "",
+            "ClassName": "",
+            "MemberName": "",
+            "Severity": 0
+        },
+        {
+            "LogID": "4ef745e2-00b0-4ca5-8ea0-a6a5f923dad9",
+            "Order": 0,
+            "Timestamp": 1779468839569,
+            "Stage": 1,
+            "ErrorType": 2,
+            "ErrorCode": "LP1031",
+            "Description": "We recommend running Runtime Analysis to find and remove all unused shader variants",
+            "Details": [
+                "You have 7 shaders and 42 shader variants in your scene, this can be detrimental to the loading times and size of your playable.\n\nRuntime Analysis has only found 12 shader variants in use within your playable. Navigate to the Runtime Analysis > Shaders tab to enable shader stripping to help reduce the amount of shaders, and shader variants present in your playable"
+            ],
+            "DescriptionValues": [],
+            "DetailsValues": [
+                "7",
+                "42",
+                "12"
+            ],
+            "LogCount": 1,
+            "LinePosition": 0,
+            "FilePath": "",
+            "ClassName": "",
+            "MemberName": "",
+            "Severity": 0
+        },
+        {
+            "LogID": "3228cbcb-56de-4813-8410-6ccc2eab65a1",
+            "Order": 1,
+            "Timestamp": 1779468839569,
+            "Stage": 1,
+            "ErrorType": 2,
+            "ErrorCode": "LP1016",
+            "Description": "Extensive usage of ParticleSystem Component",
+            "Details": [
+                "There is extensive usage of the ParticleSystem component.\nExcessive usage of any component can be detrimental to performance on lower and in some cases higher end devices, consider reducing the amount the component is used.\nRecommended count: 10, current count 19."
+            ],
+            "DescriptionValues": [
+                "ParticleSystem"
+            ],
+            "DetailsValues": [
+                "ParticleSystem",
+                "10",
+                "19"
+            ],
+            "LogCount": 1,
+            "LinePosition": 0,
+            "FilePath": "",
+            "ClassName": "",
+            "MemberName": "",
+            "Severity": 0
+        },
+        {
+            "LogID": "d5c59828-8f05-4918-bb04-8e29349f53be",
+            "Order": 2,
+            "Timestamp": 1779468839574,
+            "Stage": 1,
+            "ErrorType": 2,
+            "ErrorCode": "LP1010",
+            "Description": "Looks like a collider was scaled, this might affect performance.",
+            "Details": [
+                "Looks like Plane collider on Plane game object was scaled, this might affect performance."
+            ],
+            "DescriptionValues": [],
+            "DetailsValues": [
+                "Plane",
+                "Plane"
+            ],
+            "LogCount": 1,
+            "LinePosition": 0,
+            "FilePath": "",
+            "ClassName": "",
+            "MemberName": "",
+            "Severity": 0
+        }
+    ]
+}

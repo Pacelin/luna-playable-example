@@ -1,0 +1,235 @@
+Authorized using stored user info.
+stderr: "rm" �� ���� ����७��� ��� ���譥�
+��������, �ᯮ��塞�� �ணࠬ��� ��� ������ 䠩���.
+
+Exporting assets from Unity......
+
+[ Stage1 ] Assets exported from Unity and staged for further processing
+[ error ] $Failed to locate TTF file for the font named LegacyRuntime – falling back to Arial substitute.
+Using C:/Windows/Fonts/arial.ttf file to generate an atlas for LegacyRuntime[490] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Combined 97 glyphs into bitmap texture at K:/Unity Projects/test_3d/LunaTemp/stage1/tmp/fonts/LegacyRuntime-490/output_0.png (59kb)
+Resources:
+{}
+[ Stage2 ] Assets postprocessed and bundled successfully
+Authorized using stored user info.
+Версия MSBuild 17.14.23+b0019275e для .NET Framework
+
+Сборка начата 22.05.2026 19:54:06.
+
+
+
+Проект "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" в узле 1 (целевые объекты Rebuild).
+CoreClean:
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll" удаляется.
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.AssemblyReference.cache" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" удаляется.
+
+  Файл "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" удаляется.
+
+GenerateTargetFrameworkMonikerAttribute:
+Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+
+CoreCompile:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_2022;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2022_3;UNITY_2022_3_62 /highentropyva+ /reference:K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.dll /reference:K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll /reference:K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll /reference:K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll /reference:K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll /reference:K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll /reference:K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll /reference:K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll /reference:K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll /reference:K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll /reference:K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll /reference:K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll /debug+ /debug:full /optimize- /out:obj\Debug\UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /warnaserror- /utf8output /langversion:8 "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\DraggableHex.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\GameManager.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\Hex.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexDropTarget.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexTile.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\Packshot.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\TutorialManager.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\Utils\HexGridGenerator.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\Utils\HexTileGenerator.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\Utils\HexValidator.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleEPOOutline.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUIToolkit.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" "K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" Properties/AssemblyInfo.cs Sources/OtherDummyScript.cs "obj\Debug\.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\GameManager.cs(11,40): warning CS0649: Полю "GameManager._repeatedTutorialDelay" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\GameManager.cs(12,49): warning CS0649: Полю "GameManager._draggableHexes" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\DraggableHex.cs(10,46): warning CS0649: Полю "DraggableHex._gameManager" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexDropTarget.cs(12,40): warning CS0649: Полю "HexDropTarget._hexActivateDelay" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(14,40): warning CS0649: Полю "HexManager._positionOffset" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\GameManager.cs(10,40): warning CS0649: Полю "GameManager._firstTutorialDelay" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(24,40): warning CS0649: Полю "HexManager._delayAfterCollapse" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexDropTarget.cs(8,45): warning CS0649: Полю "HexDropTarget._hexManager" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexDropTarget.cs(10,40): warning CS0649: Полю "HexDropTarget._moveDuration" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexDropTarget.cs(9,38): warning CS0649: Полю "HexDropTarget._placeOnHex" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(17,40): warning CS0649: Полю "HexManager._singleTileTransitionSuspend" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(16,40): warning CS0649: Полю "HexManager._singleTileTransitionDuration" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\GameManager.cs(8,50): warning CS0649: Полю "GameManager._tutorialManager" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(31,38): warning CS0649: Полю "HexManager._cameraShakeVibrato" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(20,40): warning CS0649: Полю "HexManager._tileJumpHeight" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(30,40): warning CS0649: Полю "HexManager._cameraShakePower" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\Packshot.cs(10,41): warning CS0649: Полю "Packshot._playNow" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(18,40): warning CS0649: Полю "HexManager._tileStackTransitionDelay" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(26,42): warning CS0649: Полю "HexManager._particlesColors" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\Packshot.cs(9,46): warning CS0649: Полю "Packshot._canvasGroup" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexDropTarget.cs(11,40): warning CS0649: Полю "HexDropTarget._fallDuration" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\TutorialManager.cs(8,44): warning CS0649: Полю "TutorialManager._animation" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\GameManager.cs(9,43): warning CS0649: Полю "GameManager._packshot" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\TutorialManager.cs(9,45): warning CS0649: Полю "TutorialManager._hand" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(13,40): warning CS0649: Полю "HexManager._positionStep" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(12,46): warning CS0649: Полю "HexManager._gameManager" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(23,40): warning CS0649: Полю "HexManager._collapseDelay" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(28,44): warning CS0649: Полю "HexManager._cameraTransform" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(22,40): warning CS0649: Полю "HexManager._collapseDuration" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  CompilerServer: server - server processed compilation - Scripts
+
+_CopyFilesMarkedCopyLocal:
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.dll" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.xml" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.xml" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.xml" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.xml" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.xml" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.xml" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.xml" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.xml" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Создание "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date", так как было задано "AlwaysCreate".
+
+  Обращение к "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date".
+
+CopyFilesToOutputDirectory:
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Scripts -> K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+
+  Копирование файла из "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" в "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+BridgeNetCompilerTask:
+  Bridge started
+
+      To enable detailed logging, configure "logging" in bridge.json.
+      https://github.com/bridgedotnet/Bridge/wiki/global-configuration#logging
+
+  Bridge done
+
+Сборка проекта "K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" завершена (целевые объекты Rebuild).
+
+
+Сборка успешно завершена.
+
+
+"K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (целевой объект Rebuild ) (1) ->
+
+(Целевой объект CoreCompile) -> 
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\GameManager.cs(11,40): warning CS0649: Полю "GameManager._repeatedTutorialDelay" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\GameManager.cs(12,49): warning CS0649: Полю "GameManager._draggableHexes" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\DraggableHex.cs(10,46): warning CS0649: Полю "DraggableHex._gameManager" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexDropTarget.cs(12,40): warning CS0649: Полю "HexDropTarget._hexActivateDelay" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(14,40): warning CS0649: Полю "HexManager._positionOffset" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\GameManager.cs(10,40): warning CS0649: Полю "GameManager._firstTutorialDelay" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(24,40): warning CS0649: Полю "HexManager._delayAfterCollapse" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexDropTarget.cs(8,45): warning CS0649: Полю "HexDropTarget._hexManager" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexDropTarget.cs(10,40): warning CS0649: Полю "HexDropTarget._moveDuration" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexDropTarget.cs(9,38): warning CS0649: Полю "HexDropTarget._placeOnHex" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(17,40): warning CS0649: Полю "HexManager._singleTileTransitionSuspend" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(16,40): warning CS0649: Полю "HexManager._singleTileTransitionDuration" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\GameManager.cs(8,50): warning CS0649: Полю "GameManager._tutorialManager" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(31,38): warning CS0649: Полю "HexManager._cameraShakeVibrato" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(20,40): warning CS0649: Полю "HexManager._tileJumpHeight" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(30,40): warning CS0649: Полю "HexManager._cameraShakePower" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\Packshot.cs(10,41): warning CS0649: Полю "Packshot._playNow" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(18,40): warning CS0649: Полю "HexManager._tileStackTransitionDelay" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(26,42): warning CS0649: Полю "HexManager._particlesColors" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\Packshot.cs(9,46): warning CS0649: Полю "Packshot._canvasGroup" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexDropTarget.cs(11,40): warning CS0649: Полю "HexDropTarget._fallDuration" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\TutorialManager.cs(8,44): warning CS0649: Полю "TutorialManager._animation" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\GameManager.cs(9,43): warning CS0649: Полю "GameManager._packshot" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\TutorialManager.cs(9,45): warning CS0649: Полю "TutorialManager._hand" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(13,40): warning CS0649: Полю "HexManager._positionStep" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(12,46): warning CS0649: Полю "HexManager._gameManager" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(23,40): warning CS0649: Полю "HexManager._collapseDelay" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(28,44): warning CS0649: Полю "HexManager._cameraTransform" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  K:\Unity Projects\test_3d\LunaTemp\stage3\processed-scripts\Assets\_Project\Scripts\HexManager.cs(22,40): warning CS0649: Полю "HexManager._collapseDuration" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию 0. [K:\UnityLunaPlayworks\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+    Предупреждений: 29
+    Ошибок: 0
+
+Прошло времени 00:00:10.34
+
+Source code compiled successfully!
+﻿
+[ error ] $﻿
+Diagnostics gathered successfully
+[ Stage3 ] Code compiled and bundled successfully.
+[ Stage4 ] Target platform: playground
+[ Stage4 ] Package bundled successfully
+navigateto:https://assets-lunalabs-io.s3-accelerate.amazonaws.com/uploads%2Fdirect%2F9c7bdb6493efbbaec75d2523bf373dc0%2F_build.zip
+[ Stage4 ] Package uploaded successfully
